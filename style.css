@@ -1,0 +1,50 @@
+body {
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+.common-button {
+  background-color: #e55473;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 8px;
+  border: 0;
+  padding: 20px 40px;
+}
+
+.header {
+  background-color: rgba(229, 84, 115, 0.1);
+}
+
+.banner {
+  padding: 50px 240px 0px 240px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.banner-text {
+  width: 800px;
+}
+.banner-title {
+  color: #272727;
+
+  font-size: 80px;
+
+  font-weight: 800;
+}
+.banner .banner-flower {
+  width: 600px;
+  height: 800px;
+}
+
+.banner-title {
+  color: #272727;
+  font-size: 80px;
+  font-weight: 800;
+  margin-right: 100px;
+}
+.banner-statement {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
